@@ -41,3 +41,6 @@ daftar_nilai.py berisi modul untuk :
 ![6](https://user-images.githubusercontent.com/57052780/72214938-b3435400-353e-11ea-8db2-9596b694862e.png)
 
 **Output Break**
+
+![7](https://user-images.githubusercontent.com/57052780/72214958-19c87200-353f-11ea-851a-956dc7577b0e.png)
+
